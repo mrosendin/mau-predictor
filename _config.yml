@@ -1,3 +1,5 @@
 theme: jekyll-theme-leap-day
 baseurl: /mau-predictor
 show_downloads: true
+github:
+  pdf_url: {{ baseurl }}/paper.pdf
