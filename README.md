@@ -6,6 +6,9 @@ My capstone team completed a forecasting dashboard for monthly active users (MAU
 
 You can download my paper on this site. My co-authors have written separate papers for this project and you can contact me if you would like to request their paper.
 
+Contact:
+[rosendin@berkeley.edu](mailto:rosendin@berkeley.edu)
+
 ---
 
 © Matthew Rosendin 2018.
